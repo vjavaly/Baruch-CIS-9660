@@ -1,4 +1,4 @@
-status_id,status_type,status_published,num_reactions,num_comments,num_shares,num_likes,num_loves,num_wows,num_hahas,num_sads,num_angrys,Column1,Column2,Column3,Column4
+status_id,status_type,status_published,num_reactions,num_comments,num_shares,num_likes,num_loves,num_wows,num_hahas,num_sads,num_angrys
 1,video,4/22/18 6:00,529,512,262,432,92,3,1,1,0,,,,
 2,photo,4/21/18 22:45,150,0,0,150,0,0,0,0,0,,,,
 3,video,4/21/18 6:17,227,236,57,204,21,1,1,0,0,,,,

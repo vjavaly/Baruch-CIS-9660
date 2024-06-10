@@ -1,4 +1,4 @@
-visit_ID|patient_ID|gender|age|days_in_hospital|num_lab_procedures|num_non_lab_procedures|num_medications|num_outpatient_visits|num_ER_visits|num_inpatient_visits|number_diagnoses|A1Cresult|diabetes_meds_prescribed|readmitted
+visit_ID|patient_ID|gender|age|days_in_hospital|num_lab_procedures|num_non_lab_procedures|num_medications|num_outpatient_visits|num_ER_visits|num_inpatient_visits|num_diagnoses|A1Cresult|diabetes_meds_prescribed|readmitted
 236316|40523301|Male|80-100|6|64|3|18|0|0|0|7|High|Yes|NO
 955884|93196251|Female|60-80|5|34|0|17|0|0|1|7|High|Yes|>30
 1257282|84488562|Female|40-60|2|53|0|6|0|0|0|3|High|Yes|NO

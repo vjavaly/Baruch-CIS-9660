@@ -1,4 +1,4 @@
-age,gender,chest_pain_type,resting_blood_pressure,cholesterol,fasting_blood_sugar,resting_ECG,max_heart_rate,exercise_induced_angina,oldpeak,slope_peak_exercise,HeartDisease
+age,gender,chest_pain_type,resting_blood_pressure,cholesterol,fasting_blood_sugar,resting_ECG,max_heart_rate,exercise_induced_angina,old_peak_ST,slope_peak_ST,heart_disease
 40,M,ATA,140,289,0,Normal,172,N,0,Up,0
 49,F,NAP,160,180,0,Normal,156,N,1,Flat,1
 37,M,ATA,130,283,0,ST,98,N,0,Up,0
